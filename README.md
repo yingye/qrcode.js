@@ -1,0 +1,2 @@
+# qrcode.js
+qrcode generation
